@@ -45,8 +45,6 @@ john --show hash1.txt
 
 **Result:** John the Ripper successfully recovered the lab password.
 
-Evidence: `evidence/jtr/`
-
 ### 2. Password Cracking with Networkwalks Tools
 
 **Tools used:**
@@ -67,8 +65,6 @@ Evidence: `evidence/jtr/`
 
 **Result:** Successfully completed the password recovery exercise and captured the assigned lab flags.
 
-Evidence: `evidence/networkwalks-tools/`
-
 ### 3. AI-Assisted Password Recovery (Additional Practice)
 
 **Tools explored:**
@@ -88,8 +84,6 @@ The exercises included:
 - Reviewing the results.
 
 **Result:** Successful recovery was reported for the two additional lab PDFs.
-
-Evidence: `evidence/ai-assisted/`
 
 ## Skills Acquired
 
